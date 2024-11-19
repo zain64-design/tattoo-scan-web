@@ -9,6 +9,10 @@
         "destination": "/index.html"
       },
       {
+        "source": "/features",
+        "destination": "/index.html"
+      },
+      {
         "source": "/blogs",
         "destination": "/index.html"
       },
